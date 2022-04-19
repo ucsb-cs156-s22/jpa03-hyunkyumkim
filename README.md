@@ -1,5 +1,7 @@
 # demo-spring-react-example-v2: dsre-v2
 
+Repo: <https://github.com/ucsb-cs156-s22/jpa03-hyunkyumkim>
+
 Storybook is here:
 * Production: <https://ucsb-cs156-s22.github.io/jpa03-hyunkyumkim-docs>
 * QA:  <https://ucsb-cs156-s22.github.io/jpa03-hyunkyumkim-docs-qa>
